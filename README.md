@@ -12,9 +12,10 @@ The goal is to use healthcare data visualization to identify patterns that may h
 - Data Visualization
 - Hospital Readmission Metrics
 
+
 ## Dashboard Preview
 
-![Hospital Readmission Analytics Dashboard](dashboard-preview.png)
+![Hospital Readmission Analytics Dashboard](Screenshot%202026-11-08%20151018.png)
 
 ## Key Performance Indicators (KPIs)
 
